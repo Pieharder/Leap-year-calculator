@@ -1,6 +1,6 @@
 # _Leap Year Calculator_
 
-#### _A webpage designed to calculate any leap-year in the past, present or future based on user input. _
+#### _A webpage designed to calculate any leap-year in the past, present or future based on user input._
 
 #### By _**Geoff Goetz & Zakk Short**  23 January 2020_
 
